@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="material_blue_500">#e97e8e</color>
+    <color name="material_blue_700">#68dacd</color>
+    <color name="material_green_A200">#5e6ddf</color>
+    <color name="state_menu_item_selected">#409784</color>
+</resources>
